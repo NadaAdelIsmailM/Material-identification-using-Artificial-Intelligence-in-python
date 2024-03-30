@@ -1,0 +1,2 @@
+Utilizing a training set containing chemical interactions and physical properties of known materials, a linear regression model was developed to create a code enabling users to input the characteristics of an unidentified substance for identification. 
+This was an interdisciplinary project where I collaborated with a material science student to address the chemical and physical aspects of this project.
